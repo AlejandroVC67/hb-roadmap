@@ -4,7 +4,7 @@ This repository will continuously show the progress of the Bootcamp.
 ## Week 1 (Nov 7 - 10)
 - HTML Semantics
 - CSS Layout ([inline](https://github.com/andrscrrn/hb-layout-inline), [float](https://github.com/andrscrrn/hb-layout-floats), [flex](https://github.com/andrscrrn/hb-layout-flexbox), [grid](https://github.com/andrscrrn/hb-layout-grid))
-- CSS Positioning
+- CSS Positioning (static, relative, absolute, fixed, sticky)
 - Git Basics
 - Node Basics
 
