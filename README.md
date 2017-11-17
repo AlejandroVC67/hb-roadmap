@@ -14,3 +14,4 @@ This repository will continuously show the progress of the Bootcamp.
 - Javascript Basics
 - [Unit Testing using Jest](https://github.com/andrscrrn/hb-javascript-test-101)
 - Transpilation Basics (Using Babel with Jest)
+- [CI with Travis](https://github.com/andrscrrn/hb-javascript-test-101)
