@@ -15,3 +15,10 @@ This repository will continuously show the progress of the Bootcamp.
 - [Unit Testing using Jest](https://github.com/andrscrrn/hb-javascript-test-101)
 - Transpilation Basics (Using Babel with Jest)
 - [CI with Travis](https://github.com/andrscrrn/hb-javascript-test-101)
+
+## Week 3 (Nov 20 - Nov 24)
+- [CSS Pre-processors](https://github.com/andrscrrn/hb-layout-flexbox) (SASS)
+- Git Hooks
+- CSS + SASS Linting
+- CSS Source Maps
+- Editorconfig 
