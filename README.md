@@ -21,4 +21,13 @@ This repository will continuously show the progress of the Bootcamp.
 - Git Hooks
 - CSS + SASS Linting
 - CSS Source Maps
-- Editorconfig 
+- Editorconfig
+- First Page Exercise
+  - package.json
+  - Sass setup
+  - Sass linting integration
+  - CSS separation of concerns
+  - editorconfig
+  - README description
+  - Semantic HTML
+  - CI Setup (Checking Lint)
