@@ -22,6 +22,7 @@ This repository will continuously show the progress of the Bootcamp.
 - CSS + SASS Linting
 - CSS Source Maps
 - Editorconfig
+- DOM Introduction
 - First Page Exercise
   - package.json
   - Sass setup
