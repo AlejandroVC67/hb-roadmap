@@ -2,26 +2,26 @@
 This repository will continuously show the progress of the Bootcamp.
 
 ## Week 1 (Nov 7 - 10)
-- HTML Semantics
-- CSS Layout ([inline](https://github.com/andrscrrn/hb-layout-inline), [float](https://github.com/andrscrrn/hb-layout-floats), [flex](https://github.com/andrscrrn/hb-layout-flexbox), [grid](https://github.com/andrscrrn/hb-layout-grid))
-- CSS Positioning (static, relative, absolute, fixed, sticky)
+- [HTML Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction) ([inline](https://github.com/andrscrrn/hb-layout-inline), [float](https://github.com/andrscrrn/hb-layout-floats), [flex](https://github.com/andrscrrn/hb-layout-flexbox), [grid](https://github.com/andrscrrn/hb-layout-grid))
+- [CSS Positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position) (static, relative, absolute, fixed, sticky)
 - Command Line Introduction
-- Git Basics
-- Node Basics
+- [Git](https://git-scm.com/) Basics
+- [NodeJS](https://nodejs.org/en/) Basics
 
 ## Week 2 (Nov 14 - 17)
-- NPM Scripts
-- Javascript Basics
-- [Unit Testing using Jest](https://github.com/andrscrrn/hb-javascript-test-101)
-- Transpilation Basics (Using Babel with Jest)
-- [CI with Travis](https://github.com/andrscrrn/hb-javascript-test-101)
+- [NPM Scripts](https://docs.npmjs.com/misc/scripts)
+- [Javascript Basics](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+- [Exercise: Unit Testing using Jest](https://github.com/andrscrrn/hb-javascript-test-101)
+- Transpilation Basics (Using [Babel](https://babeljs.io/) with [Jest](https://facebook.github.io/jest/))
+- [Exercise: CI with Travis](https://github.com/andrscrrn/hb-javascript-test-101)
 
 ## Week 3 (Nov 20 - Nov 24)
 - [CSS Pre-processors](https://github.com/andrscrrn/hb-layout-flexbox) (SASS)
-- Git Hooks
-- CSS + SASS Linting
+- Git Hooks with [Husky](https://www.npmjs.com/package/husky)
+- CSS + SASS Linting with [Stylelint](https://github.com/stylelint/stylelint)
 - CSS Source Maps
-- Editorconfig
+- [Editorconfig](http://editorconfig.org/)
 - First Page Exercise
   - package.json
   - Sass setup
