@@ -22,7 +22,6 @@ This repository will continuously show the progress of the Bootcamp.
 - CSS + SASS Linting
 - CSS Source Maps
 - Editorconfig
-- DOM Introduction
 - First Page Exercise
   - package.json
   - Sass setup
@@ -32,3 +31,9 @@ This repository will continuously show the progress of the Bootcamp.
   - README description
   - Semantic HTML
   - CI Setup (Checking Lint)
+
+## Week 4 (Nov 27 - Dic 1)
+- [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- [You Don't Know JS - Up & Going - Ch2](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
+- [You Don't Know JS - Scope & Closures - Ch1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
+- [Javascript + DOM API Exercise](https://github.com/andrscrrn/hb-week4-js-dom)
