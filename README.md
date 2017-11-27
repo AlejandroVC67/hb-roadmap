@@ -36,5 +36,5 @@ This repository will continuously show the progress of the Bootcamp.
 - [BEM](https://css-tricks.com/bem-101/)
 - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - [You Don't Know JS - Up & Going - Ch2](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
-- [You Don't Know JS - Scope & Closures - Ch1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
+- [You Don't Know JS - Scope & Closures - Ch1](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md)
 - [Javascript + DOM API Exercise](https://github.com/andrscrrn/hb-week4-js-dom)
