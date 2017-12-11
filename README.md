@@ -43,4 +43,7 @@ This repository will continuously show the progress of the Bootcamp.
 - Object Oriented Javascript ([Example](https://github.com/andrscrrn/hb-week4-js-dom))
 
 ## Week 6 (Dec 11 - Dec 15)
-- ...
+- Object Oriented Javascript ([Example](https://github.com/andrscrrn/hb-week4-js-dom))
+
+## Week 7 (Jan 9 - Jan 12)
+- Good practices in Front-End Projects
