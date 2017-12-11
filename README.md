@@ -41,4 +41,6 @@ This repository will continuously show the progress of the Bootcamp.
 
 ## Week 5 (Dec 4 - Dec 8)
 - Object Oriented Javascript
-- HTTP
+
+## Week 6 (Dec 11 - Dec 15)
+- ...
