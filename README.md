@@ -40,7 +40,7 @@ This repository will continuously show the progress of the Bootcamp.
 - [Javascript + DOM API Exercise](https://github.com/andrscrrn/hb-week4-js-dom)
 
 ## Week 5 (Dec 4 - Dec 8)
-- Object Oriented Javascript
+- Object Oriented Javascript ([Example](https://github.com/andrscrrn/hb-week4-js-dom)
 
 ## Week 6 (Dec 11 - Dec 15)
 - ...
