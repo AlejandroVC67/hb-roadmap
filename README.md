@@ -1,7 +1,7 @@
 # Bootcamp Roadmap
 This repository will continuously show the progress of the Bootcamp.
 
-## Week 1 (Nov 7 - 10)
+## Week 1 (Nov 7 - Nov 10)
 - [HTML Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction) ([inline](https://github.com/andrscrrn/hb-layout-inline), [float](https://github.com/andrscrrn/hb-layout-floats), [flex](https://github.com/andrscrrn/hb-layout-flexbox), [grid](https://github.com/andrscrrn/hb-layout-grid))
 - [CSS Positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position) (static, relative, absolute, fixed, sticky)
@@ -9,7 +9,7 @@ This repository will continuously show the progress of the Bootcamp.
 - [Git](https://git-scm.com/) Basics
 - [NodeJS](https://nodejs.org/en/) Basics
 
-## Week 2 (Nov 14 - 17)
+## Week 2 (Nov 14 - Nov 17)
 - [NPM Scripts](https://docs.npmjs.com/misc/scripts)
 - [Javascript Basics](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [Exercise: Unit Testing using Jest](https://github.com/andrscrrn/hb-javascript-test-101)
