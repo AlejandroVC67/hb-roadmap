@@ -39,11 +39,9 @@ This repository will continuously show the progress of the Bootcamp.
 - [You Don't Know JS - Scope & Closures - Ch1](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md)
 - [Javascript + DOM API Exercise](https://github.com/andrscrrn/hb-week4-js-dom)
 
-## Week 5 (Dec 4 - Dec 8)
+## Week 5 - 6 (Dec 4 - Dec 15)
 - Object Oriented Javascript ([Example](https://github.com/andrscrrn/hb-week4-js-dom))
 
-## Week 6 (Dec 11 - Dec 15)
-- Object Oriented Javascript ([Example](https://github.com/andrscrrn/hb-week4-js-dom))
-
-## Week 7 (Jan 9 - Jan 12)
-- Good practices in Front-End Projects
+## ---
+- Project pipelines
+- Web components
