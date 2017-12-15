@@ -51,7 +51,7 @@ This repository will continuously show the progress of the Bootcamp.
 - E2E
 - React
 - Single Page Application
-- Content Specs
+- Content Specs (Retina and Non-retina)
 - Forms
 - Browser Developer Tools
 - Mobile First
