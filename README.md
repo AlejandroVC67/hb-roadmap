@@ -43,7 +43,14 @@ This repository will continuously show the progress of the Bootcamp.
 - Object Oriented Javascript ([Example](https://github.com/andrscrrn/hb-week4-js-dom))
 
 ## ---
+- Project Architecture
 - Project pipelines
-- Web components
+- Web components (?)
 - Cross Browsing
-- Bundling
+- Bundling (Webpack)
+- E2E
+- React
+- Single Page Application
+- Content Specs
+- Forms
+- Browser Developer Tools
