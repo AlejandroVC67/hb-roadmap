@@ -45,3 +45,5 @@ This repository will continuously show the progress of the Bootcamp.
 ## ---
 - Project pipelines
 - Web components
+- Cross Browsing
+- Bundling
