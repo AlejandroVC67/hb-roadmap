@@ -42,9 +42,12 @@ This repository will continuously show the progress of the Bootcamp.
 ## Week 5 - 6 (Dec 4 - Dec 15)
 - Object Oriented Javascript ([Example](https://github.com/andrscrrn/hb-week4-js-dom))
 
-## ---
+## Week 7 (Jan 9 - Jan 12)
+- Object Oriented Javascript Review (1 Day)
+- Project Pipelines ([Webpack](https://webpack.js.org/concepts/) and [NPM Scripts](https://docs.npmjs.com/misc/scripts))
+
+## Upcoming Weeks
 - Project Architecture
-- Project Pipelines
 - Web Components (?)
 - Cross Browsing
 - Bundling (Webpack)
