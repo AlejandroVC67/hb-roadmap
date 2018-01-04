@@ -44,8 +44,8 @@ This repository will continuously show the progress of the Bootcamp.
 
 ## ---
 - Project Architecture
-- Project pipelines
-- Web components (?)
+- Project Pipelines
+- Web Components (?)
 - Cross Browsing
 - Bundling (Webpack)
 - E2E
