@@ -47,6 +47,7 @@ This repository will continuously show the progress of the Bootcamp.
 - Project Pipelines ([Webpack](https://webpack.js.org/concepts/) and [NPM Scripts](https://docs.npmjs.com/misc/scripts))
 
 ## Upcoming Weeks
+- Async Javascript
 - Project Architecture
 - Web Components (?)
 - Cross Browsing
