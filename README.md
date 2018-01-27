@@ -51,6 +51,9 @@ This repository will continuously show the progress of the Bootcamp.
 - [Webpack Introduction](https://github.com/andrscrrn/hb-model-separation)
 - [Separation of concerns (Components - Modules - Logic)](https://github.com/andrscrrn/hb-model-separation)
 
+## Week 9 (Jan 29 - Feb 2)
+- Webpack + Separation of Concerns Exercise
+
 ## Upcoming Weeks
 - Cross Browsing
 - E2E
