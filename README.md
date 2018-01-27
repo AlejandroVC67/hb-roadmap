@@ -42,16 +42,17 @@ This repository will continuously show the progress of the Bootcamp.
 ## Week 5 - 6 (Dec 4 - Dec 15)
 - Object Oriented Javascript ([Example](https://github.com/andrscrrn/hb-week4-js-dom))
 
-## Week 7 (Jan 9 - Jan 12)
+## Week 7 (Jan 16 - Jan 19)
 - Object Oriented Javascript Review (1 Day)
-- Project Pipelines ([Webpack](https://webpack.js.org/concepts/) and [NPM Scripts](https://docs.npmjs.com/misc/scripts))
+- [Async Javascript](https://github.com/andrscrrn/hb-ajax-101)
+- [Object Oriented Javascript Example](https://github.com/andrscrrn/hb-oop-javascript)
+
+## Week 8 (Jan 22 - Jan 26)
+- [Webpack Introduction](https://github.com/andrscrrn/hb-model-separation)
+- [Separation of concerns (Components - Modules - Logic)](https://github.com/andrscrrn/hb-model-separation)
 
 ## Upcoming Weeks
-- Async Javascript
-- Project Architecture
-- Web Components (?)
 - Cross Browsing
-- Bundling (Webpack)
 - E2E
 - React
 - Single Page Application
