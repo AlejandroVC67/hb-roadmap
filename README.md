@@ -52,7 +52,7 @@ This repository will continuously show the progress of the Bootcamp.
 - [Separation of concerns (Components - Modules - Logic)](https://github.com/andrscrrn/hb-model-separation)
 
 ## Week 9 (Jan 29 - Feb 2)
-- Webpack + Separation of Concerns Exercise
+- [Webpack + Separation of Concerns Exercise](https://github.com/andrscrrn/hb-multipage-site)
 
 ## Week 10 (Feb 5 - Feb 9)
 - ...
