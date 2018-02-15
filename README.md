@@ -55,30 +55,23 @@ This repository will continuously show the progress of the Bootcamp.
 - [Webpack + Separation of Concerns Exercise](https://github.com/andrscrrn/hb-multipage-site)
 
 ## Week 10 (Feb 5 - Feb 9)
-- ...
+- [Cross Browsing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction)
+- Mobile First
 
 ## Week 11 (Feb 12 - Feb 16)
-- ...
+- [Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 
 ## Week 12 (Feb 19 - Feb 23)
-- ...
+- E2E
+- Content Specs (Retina and Non-retina)
 
 ## Week 13 (Feb 26 - Mar 2)
-- ...
+- Browser Developer Tools
+- @font-face
 
 ## Week 14 (Feb 5 - Mar 9)
-- ...
+- Single Page Application
+- React
 
 ## Week 15 (Feb 12 - Mar 16)
-- ...
-
-## Upcoming Topics
-- Cross Browsing
-- E2E
-- React
-- Single Page Application
-- Content Specs (Retina and Non-retina)
-- Forms
-- Browser Developer Tools
-- Mobile First
-- @font-face
+- Feedback
