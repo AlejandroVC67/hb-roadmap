@@ -69,9 +69,9 @@ This repository will continuously show the progress of the Bootcamp.
 - Browser Developer Tools
 - @font-face
 
-## Week 14 (Feb 5 - Mar 9)
+## Week 14 (Mar 5 - Mar 9)
 - Single Page Application
 - React
 
-## Week 15 (Feb 12 - Mar 16)
+## Week 15 (Mar 12 - Mar 16)
 - Feedback
