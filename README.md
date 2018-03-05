@@ -62,16 +62,19 @@ This repository will continuously show the progress of the Bootcamp.
 - [Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 
 ## Week 12 (Feb 19 - Feb 23)
-- E2E
-- Content Specs (Retina and Non-retina)
+- React + React DOM
 
 ## Week 13 (Feb 26 - Mar 2)
-- Browser Developer Tools
-- @font-face
+- React
+  - Lists and Keys
+  - Forms
+  - PropTypes
+  - Refs and the DOM
+  - Routing
 
 ## Week 14 (Mar 5 - Mar 9)
-- Single Page Application
-- React
+- Testing with Jest
 
 ## Week 15 (Mar 12 - Mar 16)
+- State Management (Redux / MobX)
 - Feedback
